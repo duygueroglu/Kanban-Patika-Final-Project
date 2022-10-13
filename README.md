@@ -32,6 +32,7 @@
 ### List Attributes
 - Add list to board
 - Change sequence of lists
+- Change names of lists
 - Delete list
 
 # User Controllers
