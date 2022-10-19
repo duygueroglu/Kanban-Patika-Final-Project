@@ -1,3 +1,8 @@
+<p float="left">
+  <img src="https://github.com/duygueroglu/Kanban-Patika-Final-Project/blob/main/images/kanban.png" width="468" />
+  <img src="https://github.com/duygueroglu/Kanban-Patika-Final-Project/blob/main/images/register.png" width="508" /> 
+</p>
+
 # Entities
 - Board
 - Card
