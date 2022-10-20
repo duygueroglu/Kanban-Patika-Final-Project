@@ -6,7 +6,7 @@ import { CardProps } from './Card.types'
 const Card: FC<CardProps> = (props) => {
   return (
     <Styled>
-
+      
       <h1>{props.title}</h1>
 
       {props.children}

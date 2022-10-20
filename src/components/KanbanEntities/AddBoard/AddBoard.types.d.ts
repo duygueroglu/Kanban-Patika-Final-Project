@@ -1,3 +1,5 @@
-export type AddBoardProps = React.EventHandler<HTMLButtonElement> & {
-    onClick: () => void
-}
+export type AddBoardProps = {
+    
+    onClick?: (e: React.ChangeEvent<HTMLInputElement>, v: boolean) => void
+  }
+  
